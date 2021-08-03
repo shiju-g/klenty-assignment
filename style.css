@@ -28,9 +28,6 @@ nav a{
     font-size: 18px;
     margin-left: 10px;
 }
-nav a:hover{
-    color: black;
-}
 .try-btn{
     color: white;
     background: #5856CE;
